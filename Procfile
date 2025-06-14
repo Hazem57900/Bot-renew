@@ -1,0 +1,1 @@
+start: python renew_bot.py
